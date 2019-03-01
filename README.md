@@ -1,6 +1,6 @@
 # Pràctica de PROP - 2018 - Scheduler
 
-[![HitCount](http://hits.dwyl.io/atsuky/foodlord.svg)](http://hits.dwyl.io/atsuky/GeneradorHoraris)
+[![HitCount](http://hits.dwyl.io/atsuky/GeneradorHoraris.svg)](http://hits.dwyl.io/atsuky/GeneradorHoraris)
 [![GitHub stars](https://img.shields.io/github/stars/atsuky/GeneradorHoraris.svg)](https://GitHub.com/atsuky/GeneradorHoraris/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/atsuky/GeneradorHoraris.svg)](https://GitHub.com/atsuky/GeneradorHoraris/network/)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/atsuky/GeneradorHoraris.svg)](https://github.com/atsuky/GeneradorHoraris)
