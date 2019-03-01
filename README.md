@@ -1,5 +1,12 @@
 # Pràctica de PROP - 2018 - Scheduler
 
+[![HitCount](http://hits.dwyl.io/atsuky/foodlord.svg)](http://hits.dwyl.io/atsuky/GeneradorHoraris)
+[![GitHub stars](https://img.shields.io/github/stars/atsuky/GeneradorHoraris.svg)](https://GitHub.com/atsuky/GeneradorHoraris/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/atsuky/GeneradorHoraris.svg)](https://GitHub.com/atsuky/GeneradorHoraris/network/)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/atsuky/GeneradorHoraris.svg)](https://github.com/atsuky/GeneradorHoraris)
+[![GitHub contributors](https://img.shields.io/github/contributors/atsuky/GeneradorHoraris.svg)](https://GitHub.com/atsuky/GeneradorHoraris/graphs/contributors/)
+[![GitHub license](https://img.shields.io/github/license/atsuky/GeneradorHoraris.svg)](https://github.com/atsuky/GeneradorHoraris/blob/master/LICENSE)
+
 ## Enunciat  
 
 Es tracta de construir un entorn per a la generació d’horaris de diverses unitats docents segons certes condicions establertes prèviament. El marc d’aplicació ha de ser el mes flexible possible. Podem  considerar  una  unitat  docent  (per  exemple  la  FIB)  que  ha d’organitzar  els  horaris corresponents a diversos plans d’estudis i diverses titulacions
