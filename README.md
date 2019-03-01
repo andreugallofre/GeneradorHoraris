@@ -11,5 +11,5 @@ Com a mínim s’han de contemplar el següents tipus de restricció: l’organi
 ## Membres del equip
 
 - [Marti Ramon](https://github.com/martiramon)
-- [Eloi Saus](https://github.com/)
+- [Eloi Saus](https://github.com/skullcar)
 - [Andreu Gallofre](https://github.com/atsuky)
